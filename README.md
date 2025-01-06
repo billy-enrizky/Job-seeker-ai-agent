@@ -1,4 +1,4 @@
-# Resume Customization and Interview Preparation Tool
+# Multi AI Agent: Job seeker
 
 ## Overview
 This project leverages a **multi-agent AI system** to assist users in tailoring their resumes and preparing for job interviews. By using advanced tools and AI agents, it ensures your resume highlights your most relevant skills and experiences, perfectly aligning with the job posting requirements.
