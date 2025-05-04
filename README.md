@@ -51,7 +51,7 @@ The application will launch in your default browser.
 ## Files in the Repository
 - **`app.py`**: The main application script.
 - **`resume-builder.ipynb`**: A Jupyter Notebook to walk through the AI pipeline interactively.
-- **GitHub Pages**: View the HTML-rendered notebook at [Resume Builder GitHub Page](https://billy-enrizky.github.io/Resume-builder/).
+- **GitHub Pages**: View the HTML-rendered notebook at [Resume Builder GitHub Page](https://billy-enrizky.github.io/Job-seeker-ai-agent/).
 
 ## Usage Guide
 1. Provide the following inputs:
@@ -80,11 +80,11 @@ This project utilizes **Crew AI**, a framework that coordinates multiple agents 
 ## Debugging and Process Walkthrough
 If you encounter issues or want to explore the process in detail:
 1. Use the **`resume-builder.ipynb`** notebook for a step-by-step guide.
-2. Visit the [GitHub Pages walkthrough](https://billy-enrizky.github.io/Resume-builder/) for a visual guide and debugging assistance.
+2. Visit the [GitHub Pages walkthrough](https://billy-enrizky.github.io/Job-seeker-ai-agent/) for a visual guide and debugging assistance.
 
 ## Repository Links
-- **GitHub Repository**: [Resume-builder](https://github.com/billy-enrizky/Resume-builder)
-- **GitHub Pages**: [HTML Walkthrough](https://billy-enrizky.github.io/Resume-builder/)
+- **GitHub Repository**: [Resume-builder](https://billy-enrizky.github.io/Job-seeker-ai-agent/)
+- **GitHub Pages**: [HTML Walkthrough](https://billy-enrizky.github.io/Job-seeker-ai-agent/)
 
 ---
 
